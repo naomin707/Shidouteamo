@@ -7,3 +7,5 @@ let variableBoolean: true
 variableBoolean: false
 
 let variableNull = null
+
+let variablelista = [`martin irribarren chernan al432`, "gabrielf.sanchez@bue.edu.ar"]
